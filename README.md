@@ -1,4 +1,4 @@
-![라이프 스타일에 따른 카드 사용 분석 (4)](https://github.com/user-attachments/assets/89fb6116-36be-49dd-87cb-ea397d519ffb)# Kibana-Visualize
+# Kibana-Visualize
 우리카드 데이터 분석
 
 :bar_chart: 연령대별, 지역별 디지털채널 가입자 및 이용자 관련 데이터 분석
@@ -16,8 +16,7 @@
 - 전체 카드 사용 금액 중 체크카드가 차지하는 비율을 각 라이프 스타일 카테고리별로 보여줍니다. 이를 통해 체크카드 사용의 상대적 중요성을 각각의 라이프 스타일 카테고리에서 평가할 수 있습니다.
 
 :bar_chart: 라이프 스타일별 체크카드 및 신용카드 이용자 관련 데이터 분석
-   ![Image](https://github.com/user-attachments/assets/5096f2e3-6f88-4529-a2b4-1a81a09ffdd7)
-
+   ![라이프 스타일에 따른 카드 사용 분석](https://github.com/user-attachments/assets/89fb6116-36be-49dd-87cb-ea397d519ffb)
 ## 트러블 슈팅
 
 ### 카드 결제 횟수 데이터 부재
